@@ -4,6 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
+      "https://user-images.githubusercontent.com/5287237/208151970-15d7d577-e12a-4420-b5a6-6c3147e5ae55.png",
+      "https://twitter.com/ckavili/status/1353284875080577025/photo/1",
       "https://i.imgflip.com/7jmwjs.jpg"
     ]
 kind: ConfigMap
